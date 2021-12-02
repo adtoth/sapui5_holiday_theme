@@ -1,0 +1,149 @@
+{
+	"zipInfo": {
+		"creatorName": "Theming Engine",
+		"creatorVersion": "1.55.2",
+		"created": "2021-11-22T11:22:26Z",
+		"lessVersion": "1.6.3",
+		"compression": "none",
+		"exportMode": "DESIGNTIME"
+	},
+	"contentInfo": {
+		"sourcePath": "https://cd1.saphec.grandvision.com/sap/bc/theming/themes/~client-300",
+		"frameworks": {
+			"Base": {
+				"version": "11.1.29"
+			},
+			"CRMWebUI": {
+				"version": "748.0.0.0.0"
+			},
+			"NWBC": {
+				"version": "3.6.25.44.0"
+			},
+			"UI5": {
+				"version": "1.78.9"
+			},
+			"UR": {
+				"version": "10.30.7.334114.0"
+			}
+		},
+		"libraries": {
+			"Base.baseLib": {
+				"version": "11.1.29"
+			},
+			"CRMWebUI.baseLib": {
+				"version": "748.0.0.0.0"
+			},
+			"NWBC.baseLib": {
+				"version": "3.6.25.44.0"
+			},
+			"UI5.sap/f": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/fiori": {
+				"version": "1.78.9"
+			},
+			"UI5.sap/gantt": {
+				"version": "1.78.2"
+			},
+			"UI5.sap/m": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/ovp": {
+				"version": "1.78.3"
+			},
+			"UI5.sap/rules/ui": {
+				"version": "1.78.3"
+			},
+			"UI5.sap/suite/ui/commons": {
+				"version": "1.78.1"
+			},
+			"UI5.sap/suite/ui/generic/template": {
+				"version": "1.78.6"
+			},
+			"UI5.sap/suite/ui/microchart": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/tnt": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/ui/codeeditor": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/ui/commons": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/ui/comp": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/ui/core": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/ui/dt": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/ui/fl": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/ui/integration": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/ui/layout": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/ui/mdc": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/ui/richtexteditor": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/ui/rta": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/ui/suite": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/ui/table": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/ui/unified": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/ui/ux3": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/ui/vbm": {
+				"version": "1.78.1"
+			},
+			"UI5.sap/ui/vk": {
+				"version": "1.78.3"
+			},
+			"UI5.sap/ushell": {
+				"version": "1.78.9"
+			},
+			"UI5.sap/uxap": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/viz": {
+				"version": "1.78.8"
+			},
+			"UI5.sap/zen/crosstab": {
+				"version": "1.78.4"
+			},
+			"UR.baseLib": {
+				"version": "10.30.7.334114.0"
+			},
+			"UR.ls": {
+				"version": "10.30.7.334114.0"
+			}
+		},
+		"themes": {
+			"christmas_quartz_2": {
+				"id": "christmas_quartz_2",
+				"extends": "sap_fiori_3",
+				"label": "Happy Holidays :)",
+				"vendor": "David Toth",
+				"textDirections": "LTR"
+			}
+		}
+	}
+}
